@@ -1,0 +1,91 @@
+[09-Apr-2019 16:53:46 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 16:54:08 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 16:54:26 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 16:54:28 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 16:54:46 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 16:54:47 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 16:55:07 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 17:00:38 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 17:00:54 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('Views/base.css')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 74
+[09-Apr-2019 17:09:43 UTC] Uncaught exception: 'Exception' with message 'Method indAction not found in controller App\Controllers\Posts'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php(66): Core\Controller->__call('ind', Array)
+#1 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('posts/ind')
+#2 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Controller.php' on line 27
+[09-Apr-2019 17:31:10 UTC] Uncaught exception: 'Exception' with message 'Method indAction not found in controller App\Controllers\Posts'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php(64): Core\Controller->__call('ind', Array)
+#1 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('posts/ind')
+#2 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Controller.php' on line 27
+[09-Apr-2019 17:31:39 UTC] Uncaught exception: 'Exception' with message 'Method indAction not found in controller App\Controllers\Posts'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php(64): Core\Controller->__call('ind', Array)
+#1 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('posts/ind')
+#2 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Controller.php' on line 27
+[09-Apr-2019 17:32:32 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('pdsa')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 17:32:51 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('pdsa')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 17:33:20 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('dsadas')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 17:33:36 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('dsadas')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 17:33:44 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('dsadsa')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 17:34:59 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('dsadsa')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 17:37:00 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('sda')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 20:44:14 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('posts/')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 20:44:17 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('posts')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
+[09-Apr-2019 20:48:19 UTC] Uncaught exception: 'Exception' with message 'No route matched'
+Stack trace: #0 /Applications/MAMP/htdocs/PHP_MVC/public/index.php(19): Core\Router->dispatch('posts')
+#1 {main}
+Thrown in /Applications/MAMP/htdocs/PHP_MVC/Core/Router.php' on line 72
